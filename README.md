@@ -1,16 +1,25 @@
-### Hi there 👋
+## 👋 Hi, I'm David.
+
+I design and develop software with and for people. Currently I live in Leipzig, Germany, and work for [🌇 AurumTours](https://www.aurumtours.de/).
+
+Also, I teach and work as a speaker and build lots of stuff for [🐼 BlackPanda](https://www.blackpanda.media).
+
+### 💻 Expertise
+- PHP 7.4 / 8.x
+- Java
+- WebDevelopment
+- Teaching & Learning
 
 <!--
-**panvid/panvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🔭 I’m currently working on
+- tbd
 -->
+
+### 📫 How to reach me
+- Twitch: https://www.twitch.tv/panvid
+- Twitter: https://twitter.com/pan__vid
+- Instagram: https://www.instagram.com/pan.vid/
+- LinkedIn: https://www.linkedin.com/in/david-pauli-230887113/
+- XING: https://www.xing.com/profile/David_Pauli6/cv
+- GMail: bepeppered@gmail.com
+- Youtube: https://www.youtube.com/user/bepeppered/featured
