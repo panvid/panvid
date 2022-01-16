@@ -9,6 +9,7 @@ Also, I teach and work as a speaker and build lots of stuff for [🐼 BlackPanda
 - Java
 - WebDevelopment
 - Teaching & Learning
+- C/C++/C#
 
 <!--
 ### 🔭 I’m currently working on
