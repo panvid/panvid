@@ -5,16 +5,19 @@ I design and develop software with and for people. Currently I live in Leipzig, 
 Also, I teach and work as a speaker and build lots of stuff for [🐼 BlackPanda](https://www.blackpanda.media).
 
 ### 💻 Expertise
+
+### Development
 - PHP 7.4 / 8.x
 - Java
 - WebDevelopment
-- Teaching & Learning
-- C/C++/C#
 
-<!--
+### Teaching
+- Mathematic
+- Software-Development
+- Speaker on Conferences
+
 ### 🔭 I’m currently working on
-- tbd
--->
+- learning C# & Unity 
 
 ### 📫 How to reach me
 - Twitch: https://www.twitch.tv/panvid
