@@ -6,12 +6,13 @@ Also, I teach and work as a speaker and build lots of stuff for [🐼 BlackPanda
 
 ### 💻 Expertise
 
-### Development
+**Development**
+
 - PHP 7.4 / 8.x
 - Java
 - WebDevelopment
 
-### Teaching
+**Teaching**
 - Mathematic
 - Software-Development
 - Speaker on Conferences
