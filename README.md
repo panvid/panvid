@@ -21,10 +21,10 @@ Also, I teach and work as a speaker and build lots of stuff for [🐼 BlackPanda
 - learning C# & Unity 
 
 ### 📫 How to reach me
-- Twitch: https://www.twitch.tv/panvid
-- Twitter: https://twitter.com/pan__vid
-- Instagram: https://www.instagram.com/pan.vid/
-- LinkedIn: https://www.linkedin.com/in/david-pauli-230887113/
-- XING: https://www.xing.com/profile/David_Pauli6/cv
-- GMail: bepeppered@gmail.com
-- Youtube: https://www.youtube.com/user/bepeppered/featured
+- [Twitch](https://www.twitch.tv/panvid)
+- [Twitter](https://twitter.com/pan__vid)
+- [Instagram](https://www.instagram.com/pan.vid/)
+- [LinkedIn](https://www.linkedin.com/in/david-pauli-230887113/)
+- [XING](https://www.xing.com/profile/David_Pauli6/cv)
+- [GMail](bepeppered@gmail.com)
+- [Youtube](https://www.youtube.com/user/bepeppered/featured)
