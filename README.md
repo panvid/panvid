@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm David.
 
-I design and develop software with and for people. Currently I live in Leipzig, Germany.
+I design and develop software with and for people.
 
 Also, I teach and work as a speaker and build lots of stuff.
 
